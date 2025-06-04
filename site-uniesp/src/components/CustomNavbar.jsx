@@ -28,8 +28,7 @@ const CustomNavbar = () => {
                       <Nav.Link as={Link} to='/nossos-cursos' className="px-3"> Nossos Cursos</Nav.Link>
                       <Nav.Link as={Link} to="/dpo-lgpd" className="px-3"> DPO LGPD </Nav.Link>
                       <Nav.Link as={Link} to="/noticias" className="px-3"> Notícias </Nav.Link>
-                      <Nav.Link as={Link} to="/admin-noticias" className="px-3"> Admin </Nav.Link>
-                      
+                                            
                     </Nav>
                   </NavbarCollapse>
             </Container>
