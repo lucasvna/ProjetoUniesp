@@ -15,8 +15,26 @@
         
         {
             "id": "3",
-            "titulo": "Especialização em Personal Training promove primeira Aula Magna ",
+            "titulo": "Especialização em Personal Training promove primeira Aula Magna",
             "texto": "No próximo sábado, 31 de maio, a pós-graduação Especialização em Personal Training: Ênfase em Performance e Grupos Especiais do UNIESP realizará a aula magna da sua primeira turma."
+        },
+
+        {
+            "id": "4",
+            "titulo": "UNIESP promove workshop sobre tecnologia para iniciantes",
+            "texto": "Encontro é uma iniciativa do projeto LATIM - Liga Acadêmica de Tecnologia"
+        },
+
+        {
+            "id": "5",
+            "titulo": "Estudante do UNIESP é eleita presidente da Liga Nacional de Odontopediatria ",
+            "texto": "Leyliane Albino é aluna do 9º período de Odontologia"
+        },
+
+        {
+            "id": "6",
+            "titulo": "UNIESP reúne grandes nomes do mercado publicitário na Semana da Publicidade 2025",
+            "texto": "Nos dias 7 e 8 de maio, o UNIESP Centro Universitário, através das coordenações dos cursos de Publicidade e Propaganda e Produção Publicitária, realiza a Semana da Publicidade 2025. Com o tema “Sinestesia: Comunicar é sentir”, a edição de 2025 reunirá importantes nomes do mercado publicitário e da comunicação para troca de experiências e aprendizados através de conteúdos atuais, relevantes e transversais para a atuação profissional."
         }
     ]
 }
