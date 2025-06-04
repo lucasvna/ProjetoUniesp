@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": "1",
+            "titulo": "UNIESP sedia 21º Congresso Brasileiro de Bioinformática: X-Meeting 2025",
+            "texto": "Evento é organizado pela Associação Brasileira de Bioinformática e Biologia Computacional"
+            
+        },
+        
+        {
+            "id": "2",
+            "titulo": "Mercado financeiro fecha em alta",
+            "texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global."
+        },
+        
+        {
+            "id": "3",
+            "titulo": "Cientistas descobrem exoplaneta habitável",
+            "texto": "Astrônomos identificam planeta fora do sistema solar com condições favoráveis para abrigar vida, reforçando buscas por sinais extraterrestres."
+        }
+    ]
+}
