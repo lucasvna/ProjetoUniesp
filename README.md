@@ -27,8 +27,7 @@ Projeto desenvolvido para a cadeira de **Tecnologias para Front-End Avançado**,
 
 ## 🗃️ Estrutura do JSON Server (db.json)
 
-Dados mockados das notícias (atualizados com informações reais da UNIESP):
-json
+Dados das notícias:
 
 ```
 {
